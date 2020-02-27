@@ -12,5 +12,10 @@ This article goes into asking question about the implementation of IT in a growi
 [https://smallbusiness.chron.com/business-benefits-information-technology-4021.html](https://smallbusiness.chron.com/business-benefits-information-technology-4021.html)  
 This article goes into detail about streamlined work flow and how the IT industry helps create a more efficient workplace.  Specifically mentioning automated routine tasks, easier data analysis, storing and organizing data efficiently.  
 
+IT infrastructure in the NMDHB according to my father \(Head nurse coordinator for older persons mental health\)  
+The nelson district uses an old custom built software for storing data on patient information, medical stock and equipment stock. However the software is not very user friendly and patient logs can not be made effectively. Therefore they still write the logs separately then scan the documents to a pdf and place them in the system. IT mainly works on personal device troubleshooting and the local database server maintenance. Renewal of the system software and infrastructure is highly demanded yet would be of high cost to commit. 
+
+
+
 
 

@@ -23,26 +23,26 @@ What different types of IT businesses exist today? What are each of their areas 
 [https://www.storypark.com/](https://www.storypark.com/)
 
 * Cloud based education
-
-
-
-* General IT management/maintenance
+  * A job like this looks into updating data, maintaining a cloud software and may require a background in education. 
 
 [http://paperkite.co.nz/](http://paperkite.co.nz/)  
 [http://www.ashen-game.com/](http://www.ashen-game.com/)
 
 * Custom Software development
-* App Development
+* App/game Development
+  * These positions would require 
 
 [http://datacom.co.nz/](http://datacom.co.nz/)  
 [https://www.xero.com/nz/](https://www.xero.com/nz/)
 
 * Payroll Management
 * Accounting software and service
+  * These positions require experience in automation scripting and an understanding on accounting
 
 [https://www.aurainfosec.com/](https://www.aurainfosec.com/)  
 
 * Cyber Security
+  * 
 
 [https://lucid.nz/](https://lucid.nz/)  
 [https://www.equinox.co.nz/](https://www.equinox.co.nz/)

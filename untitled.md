@@ -29,7 +29,13 @@ The definition above comes from study.com. Their article goes into further detai
 Innovation, Attention to detail, Emphasis on Outcome, Emphasis on People, Teamwork, Aggressiveness and Stability. 
 
 **Organisational Structure**  
+"An organizational structure is a system that outlines how certain activities are directed in order to achieve the goals of an organization. These activities can include rules, roles, and responsibilities." - Investopedia
 
+**Business Process**  
+"A business process is a collection of linked tasks which find their end in the delivery of a service or product to a client.   A business process has also been defined as a set of activities and tasks that, once completed, will accomplish an organizational goal.  The process must involve clearly defined inputs and a single output. These inputs are made up of all of the factors which contribute \(either directly or indirectly\) to the added value of a service or product. These factors can be categorized into management processes, operational processes and supporting business processes." - appian
+
+**The nature of Work**  
+Chron states that the level of a person's work is often directly connected to the nature of their work. If a job is matched to them then they will work better.
 
 
 

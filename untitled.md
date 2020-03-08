@@ -18,5 +18,8 @@ You are required to:
 1. Do your own web research on all of the above.
 2. Discuss in the Class OneNote how they can be impacted by technology.
 
+**Business Strategy**  
+
+
 
 
